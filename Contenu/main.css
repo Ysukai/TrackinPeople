@@ -1,0 +1,38 @@
+html,body
+{
+    height: 100%;
+}
+body
+{
+    margin:  0px;
+    padding: 0px;
+    font-size: 11pt;
+    font-weight: 300;
+    text-align: center;
+}
+form
+{
+    text-align: center;
+}
+table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td{
+    padding: 5px;
+    text-align: center;    
+}
+#topBar{
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+    background-color: darkgreen;
+    color: red;
+    font-size: 250%;
+    text-align: center;
+}
+#topText{
+    top: 50%;
+}
