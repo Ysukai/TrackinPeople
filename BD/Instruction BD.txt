@@ -1,7 +1,7 @@
-Le nom de la base de données a créer est: tracking_people_in_offices
+Le nom de la base de donnï¿½es a crï¿½er est: tracking_people_in_offices
 le script tracking_people_in_offices.sql est la table a importer.
 elle contient les deux table utiliser.
-
+  
 utilisateur
 user: admin
 mdp:  admin
